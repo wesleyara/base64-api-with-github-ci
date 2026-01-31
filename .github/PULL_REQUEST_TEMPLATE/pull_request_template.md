@@ -1,3 +1,8 @@
+---
+name: Pull Request
+about: Crie um pull request para contribuir com o projeto
+---
+
 ## Descrição
 Por favor, inclua um resumo da mudança e qual issue está sendo corrigida. Inclua também a motivação e contexto relevantes.
 
